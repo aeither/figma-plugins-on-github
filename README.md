@@ -381,11 +381,3 @@ A sample plugin showing a reliable way to implement drag and drop from the plugi
 Create beautiful neumorphistic designs in just a few seconds.
 
 [Repo](https://github.com/madebyfabian/figma-plugin-neumorphism)
-
----
-
-#### TailwindCSS Figma Plugin
-Making your life with Tailwind CSS and Figma easier.
-
-[Repo](https://github.com/impulse/tailwindcss-figma-plugin)
-
